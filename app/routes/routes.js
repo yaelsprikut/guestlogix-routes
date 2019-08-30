@@ -24,7 +24,7 @@ module.exports = function(app) {
 }
 
 async function getDistanceBetweenAirports(latitude, longtitude) {
-    // console.log(latitude, longtitude)
+
     try {
     } catch (e) {}
 }
