@@ -11,13 +11,6 @@ function readStream(path) {
     })
 }
 
-// function node() {
-//     this.value
-//     this.edges = []
-//     this.searched = false
-//     this.parent = null
-// }
-
 module.exports = {
     validateParams: async function(origin, destination) {
         // handle inproper parameter input
